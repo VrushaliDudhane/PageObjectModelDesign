@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 138.537 s <<< FAILURE! - in TestSuite
+TC_TripAdvisor_SignInPage_005(com.TripAdvisor.WebApp.Tests.SignInPageTest)  Time elapsed: 13.39 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.TripAdvisor.WebApp.Tests.SignInPageTest.TC_TripAdvisor_SignInPage_005(SignInPageTest.java:98)
+
+TC_TripAdvisor_SignInPage_006(com.TripAdvisor.WebApp.Tests.SignInPageTest)  Time elapsed: 2.45 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.TripAdvisor.WebApp.Tests.SignInPageTest.TC_TripAdvisor_SignInPage_006(SignInPageTest.java:115)
+

@@ -1,0 +1,14 @@
+com\TripAdvisor\WebApp\Pages\HomePage.class
+com\TripAdvisor\WebApp\Utilities\PropertyFileReader.class
+com\TripAdvisor\WebApp\Base\BasePage.class
+com\TripAdvisor\WebApp\Base\BaseTest.class
+com\TripAdvisor\WebApp\Utilities\TimeOutsProvider.class
+com\TripAdvisor\WebApp\Tests\HomePageTest.class
+com\TripAdvisor\WebApp\Tests\SignInPageTest.class
+com\TripAdvisor\WebApp\Pages\SignInPage.class
+com\TripAdvisor\WebApp\Tests\tests.class
+com\TripAdvisor\WebApp\Base\Page.class
+com\TripAdvisor\WebApp\Commons\DataProviderSignIn.class
+com\TripAdvisor\WebApp\Utilities\ReadingXlsxSheet$1.class
+com\TripAdvisor\WebApp\Pages\UserHomePage.class
+com\TripAdvisor\WebApp\Utilities\ReadingXlsxSheet.class

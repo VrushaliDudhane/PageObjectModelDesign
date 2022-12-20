@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="13" total="19" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T17:45:24 IST" name="Failed suite [Suite]" finished-at="2022-12-20T17:46:18 IST" duration-ms="53420">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T17:45:24 IST" name="TestsOnChrome(failed)" finished-at="2022-12-20T17:45:54 IST" duration-ms="29650">
+      <class name="com.TripAdvisor.WebApp.Tests.SignInPageTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@28dcca0c]" started-at="2022-12-20T17:45:24 IST" name="init" finished-at="2022-12-20T17:45:37 IST" duration-ms="12565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_TripAdvisor_SignInPage_004()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@28dcca0c]" started-at="2022-12-20T17:45:37 IST" name="TC_TripAdvisor_SignInPage_004" finished-at="2022-12-20T17:45:43 IST" duration-ms="6069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TripAdvisor_SignInPage_004 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@28dcca0c]" started-at="2022-12-20T17:45:43 IST" name="tearDown" finished-at="2022-12-20T17:45:44 IST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@28dcca0c]" started-at="2022-12-20T17:45:44 IST" name="init" finished-at="2022-12-20T17:45:49 IST" duration-ms="5609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_TripAdvisor_SignInPage_003()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@28dcca0c]" started-at="2022-12-20T17:45:49 IST" name="TC_TripAdvisor_SignInPage_003" finished-at="2022-12-20T17:45:53 IST" duration-ms="3818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TripAdvisor_SignInPage_003 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@28dcca0c]" started-at="2022-12-20T17:45:53 IST" name="tearDown" finished-at="2022-12-20T17:45:54 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TripAdvisor.WebApp.Tests.SignInPageTest -->
+    </test> <!-- TestsOnChrome(failed) -->
+    <test started-at="2022-12-20T17:45:24 IST" name="TestsOnEdge(failed)" finished-at="2022-12-20T17:46:18 IST" duration-ms="53420">
+      <class name="com.TripAdvisor.WebApp.Tests.SignInPageTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:45:25 IST" name="init" finished-at="2022-12-20T17:45:37 IST" duration-ms="11908" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[microsoftEdge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:45:37 IST" name="TC_TripAdvisor_SignInPage_Negative_007" data-provider="dataProviderForSignIn" finished-at="2022-12-20T17:45:47 IST" duration-ms="9720" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[<xml-fragment r="1" spans="1:2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A1" t="s">
+    <main:v>0</main:v>
+  </main:c>
+  <main:c r="B1" t="s">
+    <main:v>1</main:v>
+  </main:c>
+</xml-fragment>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TripAdvisor_SignInPage_Negative_007 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:45:47 IST" name="tearDown" finished-at="2022-12-20T17:45:48 IST" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:45:48 IST" name="init" finished-at="2022-12-20T17:45:53 IST" duration-ms="4900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[microsoftEdge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:45:53 IST" name="TC_TripAdvisor_SignInPage_Negative_007" data-provider="dataProviderForSignIn" finished-at="2022-12-20T17:46:00 IST" duration-ms="7118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[<xml-fragment r="2" spans="1:2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="1" t="s">
+    <main:v>2</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TripAdvisor_SignInPage_Negative_007 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:00 IST" name="tearDown" finished-at="2022-12-20T17:46:01 IST" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:01 IST" name="init" finished-at="2022-12-20T17:46:06 IST" duration-ms="5090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[microsoftEdge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_TripAdvisor_SignInPage_Negative_009()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:06 IST" name="TC_TripAdvisor_SignInPage_Negative_009" finished-at="2022-12-20T17:46:10 IST" duration-ms="4181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TripAdvisor_SignInPage_Negative_009 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:10 IST" name="tearDown" finished-at="2022-12-20T17:46:11 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:11 IST" name="init" finished-at="2022-12-20T17:46:14 IST" duration-ms="3262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[microsoftEdge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_TripAdvisor_SignInPage_001()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:14 IST" name="TC_TripAdvisor_SignInPage_001" finished-at="2022-12-20T17:46:17 IST" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TripAdvisor_SignInPage_001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TripAdvisor.WebApp.Tests.SignInPageTest@2d0399f4]" started-at="2022-12-20T17:46:17 IST" name="tearDown" finished-at="2022-12-20T17:46:18 IST" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TripAdvisor.WebApp.Tests.SignInPageTest -->
+    </test> <!-- TestsOnEdge(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>

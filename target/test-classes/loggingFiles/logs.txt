@@ -1,0 +1,384 @@
+INFO	2022-12-20 14:11:22,221	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:11:24,450	2229	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:11:24,459	2238	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:11:24,496	2275	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor HomePage opened
+INFO	2022-12-20 14:11:24,498	2277	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:11:26,343	4122	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:11:27,939	5718	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:11:27,940	5719	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is started
+INFO	2022-12-20 14:11:28,229	6008	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor logo has been displayed
+INFO	2022-12-20 14:11:28,231	6010	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 14:11:30,012	7791	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:11:31,978	9757	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:11:31,979	9758	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is started
+INFO	2022-12-20 14:11:32,045	9824	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign In Link has been displayed and clickable
+INFO	2022-12-20 14:11:32,045	9824	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 14:11:33,801	11580	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:11:35,563	13342	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:11:35,564	13343	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+ERROR	2022-12-20 14:11:56,495	34274	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.xpath: //*[@id='overlayHeader']/div  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 14:11:56,512	34291	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.xpath: //*[@id='overlayHeader']/div  Element could Not Be found on DOM
+ERROR	2022-12-20 14:11:56,515	34294	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is failed
+ERROR	2022-12-20 14:11:56,523	34302	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is failed
+INFO	2022-12-20 14:13:52,477	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:13:54,168	1691	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:13:54,175	1698	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:13:55,933	3456	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign in to unlock the best of Tripadvisor.header displayed on login Frame
+INFO	2022-12-20 14:13:55,936	3459	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:13:57,782	5305	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:13:59,165	6688	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:13:59,166	6689	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is started
+ERROR	2022-12-20 14:14:20,427	27950	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[id='googleBtn']  Element Is not clickable
+ERROR	2022-12-20 14:14:20,443	27966	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[id='googleBtn']  Element could Not Be found on DOM
+ERROR	2022-12-20 14:14:20,443	27966	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is failed
+ERROR	2022-12-20 14:14:20,443	27966	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is failed
+INFO	2022-12-20 14:15:38,303	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:15:39,716	1413	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:15:39,725	1422	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:15:41,881	3578	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign in to unlock the best of Tripadvisor.header displayed on login Frame
+INFO	2022-12-20 14:15:41,885	3582	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:15:43,924	5621	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:15:45,340	7037	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:15:45,341	7038	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is started
+INFO	2022-12-20 14:15:47,595	9292	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Google Option displayed on login Frame
+INFO	2022-12-20 14:15:47,596	9293	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 14:15:49,430	11127	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:15:50,847	12544	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:15:50,872	12569	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is started
+INFO	2022-12-20 14:15:53,521	15218	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Facebook Option displayed on login Frame
+INFO	2022-12-20 14:15:53,524	15221	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 14:15:55,453	17150	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:15:57,426	19123	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:15:57,427	19124	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is started
+INFO	2022-12-20 14:15:59,350	21047	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with email Option displayed on login Frame
+INFO	2022-12-20 14:15:59,351	21048	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is successful
+INFO	2022-12-20 14:16:01,152	22849	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:16:03,289	24986	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:16:03,290	24987	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is started
+INFO	2022-12-20 14:16:05,395	27092	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Welcome back.header displayed on login Frame
+INFO	2022-12-20 14:16:05,396	27093	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is successful
+INFO	2022-12-20 14:16:07,248	28945	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:16:08,761	30458	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:16:08,762	30459	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is started
+INFO	2022-12-20 14:16:12,154	33851	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User logged in with valid credentials
+INFO	2022-12-20 14:16:12,156	33853	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is successful
+INFO	2022-12-20 14:16:15,075	36772	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:16:16,638	38335	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:16:16,773	38470	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 14:16:20,584	42281	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 14:16:20,590	42287	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 14:16:22,548	44245	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:16:24,813	46510	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:16:24,816	46513	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 14:16:29,697	51394	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 14:16:29,701	51398	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 14:16:31,542	53239	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:16:33,190	54887	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:16:33,191	54888	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is started
+INFO	2022-12-20 14:16:37,157	58854	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Email address
+INFO	2022-12-20 14:16:37,159	58856	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is successful
+INFO	2022-12-20 14:16:39,123	60820	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:16:40,504	62201	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:16:40,505	62202	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is started
+INFO	2022-12-20 14:16:44,958	66655	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Password
+INFO	2022-12-20 14:16:44,959	66656	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is successful
+INFO	2022-12-20 14:17:35,183	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:17:36,979	1796	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:17:36,986	1803	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:17:37,056	1873	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor HomePage opened
+INFO	2022-12-20 14:17:37,060	1877	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:17:38,904	3721	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:17:40,872	5689	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:17:40,873	5690	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is started
+INFO	2022-12-20 14:17:41,091	5908	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor logo has been displayed
+INFO	2022-12-20 14:17:41,093	5910	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 14:17:42,899	7716	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:17:44,829	9646	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:17:44,830	9647	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is started
+INFO	2022-12-20 14:17:44,906	9723	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign In Link has been displayed and clickable
+INFO	2022-12-20 14:17:44,907	9724	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 14:17:46,724	11541	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:17:48,216	13033	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:17:48,218	13035	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:17:50,054	14871	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign in to unlock the best of Tripadvisor.header displayed on login Frame
+INFO	2022-12-20 14:17:50,055	14872	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:17:51,906	16723	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:17:53,557	18374	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:17:53,559	18376	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is started
+INFO	2022-12-20 14:17:55,327	20144	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Google Option displayed on login Frame
+INFO	2022-12-20 14:17:55,328	20145	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 14:17:57,411	22228	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:17:59,089	23906	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:17:59,090	23907	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is started
+INFO	2022-12-20 14:18:00,169	24986	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Facebook Option displayed on login Frame
+INFO	2022-12-20 14:18:00,170	24987	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 14:18:02,036	26853	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:18:03,406	28223	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:18:03,408	28225	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is started
+ERROR	2022-12-20 14:18:25,075	49892	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 14:18:25,091	49908	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+ERROR	2022-12-20 14:18:25,091	49908	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is failed
+INFO	2022-12-20 14:18:27,020	51837	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:18:28,867	53684	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:18:28,868	53685	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is started
+ERROR	2022-12-20 14:18:50,096	74913	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 14:18:50,152	74969	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+ERROR	2022-12-20 14:18:50,154	74971	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is failed
+INFO	2022-12-20 14:18:52,067	76884	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:18:53,693	78510	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:18:53,694	78511	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is started
+INFO	2022-12-20 14:18:56,311	81128	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User logged in with valid credentials
+INFO	2022-12-20 14:18:56,313	81130	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is successful
+INFO	2022-12-20 14:18:59,268	84085	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:19:00,605	85422	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:19:00,656	85473	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 14:19:05,714	90531	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 14:19:05,717	90534	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 14:19:07,574	92391	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:19:09,271	94088	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:19:09,273	94090	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 14:19:12,724	97541	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 14:19:12,728	97545	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 14:19:14,922	99739	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:19:21,737	106554	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:19:21,738	106555	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is started
+ERROR	2022-12-20 14:19:42,113	126930	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 14:19:42,129	126946	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+ERROR	2022-12-20 14:19:42,144	126961	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is failed
+INFO	2022-12-20 14:19:44,005	128822	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 14:19:46,003	130820	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:19:46,003	130820	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is started
+INFO	2022-12-20 14:19:50,854	135671	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Password
+INFO	2022-12-20 14:19:50,856	135673	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:02,308	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:04,151	1843	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:04,156	1848	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:04,177	1869	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor HomePage opened
+INFO	2022-12-20 14:29:04,179	1871	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:07,860	5552	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:09,524	7216	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:09,526	7218	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:09,610	7302	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor logo has been displayed
+INFO	2022-12-20 14:29:09,612	7304	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:13,264	10956	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:15,030	12722	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:15,032	12724	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:15,100	12792	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign In Link has been displayed and clickable
+INFO	2022-12-20 14:29:15,101	12793	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:18,768	16460	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:20,683	18375	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:20,684	18376	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:22,515	20207	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign in to unlock the best of Tripadvisor.header displayed on login Frame
+INFO	2022-12-20 14:29:22,517	20209	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:26,233	23925	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:27,832	25524	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:27,833	25525	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:29,817	27509	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Google Option displayed on login Frame
+INFO	2022-12-20 14:29:29,818	27510	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:33,410	31102	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:35,003	32695	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:35,004	32696	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:36,806	34498	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Facebook Option displayed on login Frame
+INFO	2022-12-20 14:29:36,807	34499	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:40,427	38119	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:42,031	39723	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:42,032	39724	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:43,225	40917	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with email Option displayed on login Frame
+INFO	2022-12-20 14:29:43,226	40918	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:46,863	44555	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:48,155	45847	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:48,155	45847	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:50,176	47868	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Welcome back.header displayed on login Frame
+INFO	2022-12-20 14:29:50,178	47870	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is successful
+INFO	2022-12-20 14:29:53,874	51566	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:29:55,591	53283	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:29:55,592	53284	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is started
+INFO	2022-12-20 14:29:58,282	55974	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User logged in with valid credentials
+INFO	2022-12-20 14:29:58,284	55976	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is successful
+INFO	2022-12-20 14:30:02,460	60152	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:30:04,108	61800	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:30:04,147	61839	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+ERROR	2022-12-20 14:30:25,432	83124	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 14:30:25,460	83152	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+ERROR	2022-12-20 14:30:25,460	83152	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is failed
+INFO	2022-12-20 14:30:29,257	86949	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:30:31,062	88754	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:30:31,064	88756	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 14:30:34,814	92506	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 14:30:34,816	92508	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 14:30:38,606	96298	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:30:40,441	98133	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:30:40,442	98134	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is started
+INFO	2022-12-20 14:30:44,449	102141	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Email address
+INFO	2022-12-20 14:30:44,450	102142	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is successful
+INFO	2022-12-20 14:30:48,194	105886	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: microsoftEdge
+INFO	2022-12-20 14:30:50,792	108484	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 14:30:50,793	108485	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is started
+INFO	2022-12-20 14:30:55,071	112763	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Password
+INFO	2022-12-20 14:30:55,072	112764	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is successful
+INFO	2022-12-20 17:39:51,535	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:39:51,587	52	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:40:04,116	12581	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:04,124	12589	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:04,211	12676	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	TripAdvisor HomePage opened
+INFO	2022-12-20 17:40:04,222	12687	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:06,997	15462	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:40:09,805	18270	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:09,807	18272	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:10,096	18561	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	TripAdvisor logo has been displayed
+INFO	2022-12-20 17:40:10,100	18565	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:12,227	20692	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:40:14,463	22928	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:14,463	22928	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:14,607	23072	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	Sign In Link has been displayed and clickable
+INFO	2022-12-20 17:40:14,607	23072	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:16,702	25167	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:40:17,955	26420	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:17,955	26420	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:17,969	26434	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor HomePage opened
+INFO	2022-12-20 17:40:17,969	26434	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:19,013	27478	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:19,013	27478	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:20,468	28933	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:40:22,763	31228	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:22,765	31230	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:23,018	31483	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	TripAdvisor logo has been displayed
+INFO	2022-12-20 17:40:23,021	31486	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:25,156	33621	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:40:26,697	35162	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:26,697	35162	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:26,958	35423	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign In Link has been displayed and clickable
+INFO	2022-12-20 17:40:26,959	35424	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	HomePageTest.TC_TripAdvisor_HomePage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:29,032	37497	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:40:30,745	39210	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:30,748	39213	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:34,097	42562	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Sign in to unlock the best of Tripadvisor.header displayed on login Frame
+INFO	2022-12-20 17:40:34,098	42563	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:36,403	44868	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:40:37,988	46453	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:37,990	46455	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is started
+ERROR	2022-12-20 17:40:39,911	48376	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.xpath: //*[@id='overlayHeader']/div  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 17:40:39,932	48397	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.xpath: //*[@id='overlayHeader']/div  Element could Not Be found on DOM
+ERROR	2022-12-20 17:40:39,935	48400	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is failed
+INFO	2022-12-20 17:40:40,425	48890	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Google Option displayed on login Frame
+INFO	2022-12-20 17:40:40,426	48891	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:42,550	51015	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:40:42,790	51255	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:40:44,614	53079	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:44,617	53082	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:49,791	58256	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	Continue with Google Option displayed on login Frame
+INFO	2022-12-20 17:40:49,792	58257	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_002()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:51,869	60334	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:40:53,678	62143	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:53,682	62147	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is started
+INFO	2022-12-20 17:40:56,891	65356	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	Continue with Facebook Option displayed on login Frame
+INFO	2022-12-20 17:40:56,892	65357	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 17:40:59,051	67516	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:40:59,506	67971	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:40:59,507	67972	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is started
+INFO	2022-12-20 17:41:02,380	70845	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:02,387	70852	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is started
+INFO	2022-12-20 17:41:04,411	72876	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	Continue with email Option displayed on login Frame
+INFO	2022-12-20 17:41:04,412	72877	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is successful
+INFO	2022-12-20 17:41:06,367	74832	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:41:08,921	77386	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:08,922	77387	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is started
+INFO	2022-12-20 17:41:13,403	81868	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	Welcome back.header displayed on login Frame
+INFO	2022-12-20 17:41:13,403	81868	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is successful
+INFO	2022-12-20 17:41:15,495	83960	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:41:17,535	86000	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:17,536	86001	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is started
+ERROR	2022-12-20 17:41:20,679	89144	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[id='facebookBtn']  Element Is not clickable
+ERROR	2022-12-20 17:41:20,697	89162	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[id='facebookBtn']  Element could Not Be found on DOM
+ERROR	2022-12-20 17:41:20,700	89165	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is failed
+INFO	2022-12-20 17:41:23,033	91498	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:41:23,409	91874	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	User logged in with valid credentials
+INFO	2022-12-20 17:41:23,411	91876	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is successful
+INFO	2022-12-20 17:41:26,953	95418	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:41:28,975	97440	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:29,089	97554	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 17:41:33,046	101511	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:33,047	101512	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is started
+ERROR	2022-12-20 17:41:52,709	121174	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 17:41:52,732	121197	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM
+ERROR	2022-12-20 17:41:52,737	121202	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is failed
+ERROR	2022-12-20 17:41:53,745	122210	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 17:41:53,762	122227	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-1]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+ERROR	2022-12-20 17:41:53,765	122230	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is failed
+INFO	2022-12-20 17:41:54,879	123344	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:41:55,864	124329	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:41:58,812	127277	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:58,816	127281	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is started
+INFO	2022-12-20 17:41:58,953	127418	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:41:58,956	127421	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 17:42:06,166	134631	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Welcome back.header displayed on login Frame
+INFO	2022-12-20 17:42:06,174	134639	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_005()[pri:0,] Test case is successful
+INFO	2022-12-20 17:42:08,165	136630	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:42:11,447	139912	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:42:11,449	139914	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is started
+INFO	2022-12-20 17:42:20,771	149236	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User logged in with valid credentials
+INFO	2022-12-20 17:42:20,771	149236	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_006()[pri:0,] Test case is successful
+INFO	2022-12-20 17:42:22,951	151416	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:42:26,993	155458	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:42:26,994	155459	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+ERROR	2022-12-20 17:42:28,708	157173	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 17:42:28,733	157198	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.xpath: //*[@id='regErrors']/ul/li  Element could Not Be found on DOM
+ERROR	2022-12-20 17:42:28,739	157204	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is failed
+INFO	2022-12-20 17:42:31,209	159674	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:42:35,163	163628	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 17:42:35,166	163631	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 17:42:37,643	166108	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:42:38,080	166545	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:42:38,082	166547	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is started
+INFO	2022-12-20 17:42:41,015	169480	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:42:41,018	169483	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 17:42:44,887	173352	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	User cannot logged in with blank Email address
+INFO	2022-12-20 17:42:44,887	173352	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is successful
+INFO	2022-12-20 17:42:47,240	175705	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:42:47,434	175899	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 17:42:47,437	175902	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 17:42:49,512	177977	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:42:49,514	177979	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is started
+INFO	2022-12-20 17:42:49,586	178051	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:42:51,442	179907	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:42:51,443	179908	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is started
+INFO	2022-12-20 17:42:57,059	185524	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Email address
+INFO	2022-12-20 17:42:57,059	185524	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_008()[pri:0,] Test case is successful
+INFO	2022-12-20 17:42:59,391	187856	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:43:02,077	190542	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:43:02,078	190543	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is started
+INFO	2022-12-20 17:43:07,360	195825	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	User cannot logged in with blank Password
+INFO	2022-12-20 17:43:07,360	195825	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is successful
+ERROR	2022-12-20 17:43:10,331	198796	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM Within given wait time
+ERROR	2022-12-20 17:43:10,346	198811	com.TripAdvisor.WebApp.Base.BasePage	[TestNG-tests-2]	By.cssSelector: button[class='ui_button w100p regEmailContinue newRegFormButtonStyles roundedRegFormButton emailButtonMargin']>span[class='textContainer']  Element could Not Be found on DOM
+ERROR	2022-12-20 17:43:10,346	198811	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is failed
+INFO	2022-12-20 17:45:28,621	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:45:28,621	0	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:45:37,485	8864	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:45:37,500	8879	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is started
+INFO	2022-12-20 17:45:37,729	9108	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:45:37,825	9204	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 17:45:43,554	14933	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with email Option displayed on login Frame
+INFO	2022-12-20 17:45:43,557	14936	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_004()[pri:0,] Test case is successful
+INFO	2022-12-20 17:45:45,811	17190	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened browser: chrome
+INFO	2022-12-20 17:45:47,449	18828	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 17:45:47,457	18836	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 17:45:49,675	21054	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:45:49,970	21349	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-1]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:45:49,970	21349	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is started
+INFO	2022-12-20 17:45:53,279	24658	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:45:53,287	24666	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is started
+INFO	2022-12-20 17:45:53,788	25167	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-1]	Continue with Facebook Option displayed on login Frame
+INFO	2022-12-20 17:45:53,791	25170	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-1]	SignInPageTest.TC_TripAdvisor_SignInPage_003()[pri:0,] Test case is successful
+INFO	2022-12-20 17:46:00,397	31776	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	User cannot logged in with invalidvalid credentials
+INFO	2022-12-20 17:46:00,400	31779	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_007(org.apache.poi.ss.usermodel.Row)[pri:0,] Test case is successful
+INFO	2022-12-20 17:46:02,641	34020	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:46:06,259	37638	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:46:06,260	37639	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is started
+INFO	2022-12-20 17:46:10,440	41819	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	User cannot logged in with blank Password
+INFO	2022-12-20 17:46:10,441	41820	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_Negative_009()[pri:0,] Test case is successful
+INFO	2022-12-20 17:46:12,609	43988	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened browser: microsoftEdge
+INFO	2022-12-20 17:46:14,488	45867	com.TripAdvisor.WebApp.Base.BaseTest	[TestNG-tests-2]	opened the URL :https://www.tripadvisor.in/
+INFO	2022-12-20 17:46:14,490	45869	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is started
+INFO	2022-12-20 17:46:17,226	48605	com.TripAdvisor.WebApp.Tests.HomePageTest	[TestNG-tests-2]	Sign in to unlock the best of Tripadvisor.header displayed on login Frame
+INFO	2022-12-20 17:46:17,228	48607	com.TripAdvisor.WebApp.Commons.TestListner	[TestNG-tests-2]	SignInPageTest.TC_TripAdvisor_SignInPage_001()[pri:0,] Test case is successful

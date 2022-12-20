@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="tests" name="TestsOnEdge(failed)" verbose="0">
+    <parameter name="Browser" value="microsoftEdge"/>
+    <classes>
+      <class name="com.TripAdvisor.WebApp.Tests.SignInPageTest">
+        <methods>
+          <include name="TC_TripAdvisor_SignInPage_006"/>
+          <include name="tearDown"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.TripAdvisor.WebApp.Tests.SignInPageTest -->
+    </classes>
+  </test> <!-- TestsOnEdge(failed) -->
+  <test thread-count="5" parallel="tests" name="TestsOnChrome(failed)" verbose="0">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.TripAdvisor.WebApp.Tests.SignInPageTest">
+        <methods>
+          <include name="TC_TripAdvisor_SignInPage_005"/>
+          <include name="tearDown"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.TripAdvisor.WebApp.Tests.SignInPageTest -->
+    </classes>
+  </test> <!-- TestsOnChrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

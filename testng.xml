@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Suite">
+
+<listeners>
+<listener class-name="com.TripAdvisor.WebApp.Commons.TestListner"></listener>
+</listeners>
+
+   <test thread-count="5" parallel="tests" name="TestsOnChrome">
+  <parameter name="Browser" value="chrome"></parameter>
+    <classes>
+           <class name="com.TripAdvisor.WebApp.Tests.HomePageTest"/>
+           <class name="com.TripAdvisor.WebApp.Tests.SignInPageTest"/>
+    </classes>
+    </test>  <!-- Test -->
+    
+  <test thread-count="5" parallel="tests" name="TestsOnEdge"> 
+    <parameter name="Browser" value="microsoftEdge"></parameter>
+    <classes>
+      <class name="com.TripAdvisor.WebApp.Tests.HomePageTest"/>
+      <class name="com.TripAdvisor.WebApp.Tests.SignInPageTest"/>
+    </classes>
+  </test><!-- Test -->
+</suite> <!-- Suite -->
