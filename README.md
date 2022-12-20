@@ -23,6 +23,9 @@ Automation Framework Architecture:
 4)	 Test Utilities for different generic functions 
 5)	 Report - Dashboard (Pass/Fail Test) by using TestNG report
 6)	 GITHub Repository (Code Versioning Tool)
+
+
+
 The best Practices used to design:
 1)	Every Test method has single responsibility , no test case dependency
 2)	Each page has separate page class and Page Test class
